@@ -1,13 +1,4 @@
-/*
- * Theme Name: 
- * Theme URI: 
- * Author: Milan Savov
- * Author URI/Mail: milan.savov@gmail.com
- * Version: 1.0
- * */
 
-/* FONT
-================================================== */
 @font-face {
   font-family: 'fontello';
   src: url('../fonts/fontello.eot?37927580');
@@ -24,7 +15,6 @@
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
-  speak: none;
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
@@ -111,7 +101,6 @@ h4 {
     background-color: transparent; 
     box-shadow: none;
     outline: 0 none transparent;
-    -webkit-appearance:none;
  }
 
 textarea {
